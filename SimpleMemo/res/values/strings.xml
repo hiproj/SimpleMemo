@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">메모장</string>
+    <string name="now_memo">바로메모하기</string>
+    <string name="memo_list">메모리스트</string>
+</resources>
